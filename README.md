@@ -1,7 +1,7 @@
 # Workshops and Tutorials
 This is where you can find information from workshops and tutorials.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/ltu-capr/zsl-text-tutorial/blob/master/ZSL_for_substance_use_text_analysis.ipynb](https://colab.research.google.com/github/BenjaminRiordan/workshops-and-tutorials/blob/main/KBS_Workshop.ipynb))
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/ltu-capr/zsl-text-tutorial/blob/master/ZSL_for_substance_use_text_analysis.ipynb])
 
 
 # Papers the workshops are based on
