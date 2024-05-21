@@ -1,6 +1,8 @@
 # Workshops and Tutorials
 This is where you can find information from workshops and tutorials.
 
+Here is a link to the most recent tutorial:
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BenjaminRiordan/workshops-and-tutorials/blob/main/KBS_Workshop.ipynb)
 # Papers the workshops are based on
 We are working on a number of tutorials to make sure that machine and zero-shot learning methods are accessible for social scientists.
