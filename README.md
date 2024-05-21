@@ -1,9 +1,7 @@
 # Workshops and Tutorials
 This is where you can find information from workshops and tutorials.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/ltu-capr/zsl-text-tutorial/blob/master/ZSL_for_substance_use_text_analysis.ipynb])
-
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BenjaminRiordan/workshops-and-tutorials/blob/main/KBS_Workshop.ipynb)
 # Papers the workshops are based on
 We are working on a number of tutorials to make sure that machine and zero-shot learning methods are accessible for social scientists.
 
