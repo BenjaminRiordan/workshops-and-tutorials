@@ -1,3 +1,5 @@
+https://colab.research.google.com/github/BenjaminRiordan/workshops-and-tutorials/blob/main/KBS_Workshop.ipynb
+
 # Workshops and Tutorials
 This is where you can find information from workshops and tutorials.
 
