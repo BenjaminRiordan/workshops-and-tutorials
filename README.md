@@ -19,3 +19,13 @@ Kuntsche, E., Patsouras, M., He, Z., & Riordan, B. C. (2024). Artificial Intelli
 ### Comparison of zero-shot learning to other methods
 Bonela, A.A., Nibali, A., He, Z. et al. The promise of zero-shot learning for alcohol image detection: comparison with a task-specific deep learning algorithm. Sci Rep 13, 11891 (2023). https://doi.org/10.1038/s41598-023-39169-4
 
+# Funding
+
+I am sponsered by a Discovery Early Career Research Fellowship, which aims to use AI to better understand the link between exposure to alcohol and alcohol use.
+
+* The imitation game: The prevalence and impact of digital alcohol exposure in digital media. Australian Research Council Discovery Early Career Research Award. DE230100659
+
+For the ZSL text tutorials we have received funding from La Trobe University's School of Psychology and Public Health.
+
+* How to analyse images or videos using Zero Shot Learning: An overview and tutorial. La Trobe University SPPH Internal Grant Scheme, 2024.
+* More than just a chatbot: Assessing the performance and promise of large pre-trained models for zero-shot learning. La Trobe University SPPH Internal Grant Scheme, 2023
