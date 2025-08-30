@@ -6,12 +6,9 @@ This is where you can find information from workshops and tutorials.
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BenjaminRiordan/workshops-and-tutorials/blob/main/NZ_Psyc_tutorial.ipynb)
 
 
-**Here is a link to the most recent tutorial** :
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZFlq9btog_DBbGYb5WPjbrJKjQIrVN_T#scrollTo=r6P_xiCXLvI6).
 
 
-**Here is a link to previous tutorials: KBS** :
+**Here is a link to previous tutorials: KBS 2024** :
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BenjaminRiordan/workshops-and-tutorials/blob/main/KBS_Workshop.ipynb)
 # Papers the workshops are based on
@@ -20,6 +17,8 @@ We are working on a number of tutorials to make sure that machine and zero-shot 
 ### Zero-shot learning:
 ### Tutorial
 Riordan B, Bonela AA, He Z, Nibali A, Anderson-Luxford D, Kuntsche E. How to apply zero-shot learning to text data in substance use research: An overview and tutorial with media data. Addiction. 2024; 119(5): 951–959. https://doi.org/10.1111/add.16427
+
+Riordan B, Millward, J, He Z, Nibali A, Anderson-Luxford D, Salim, S., Patsouras, M., & Kuntsche E. How to analyse visual data using zero-shot learning: An overview and tutorial. (Under Review). Available on request
 
 ### Chapter/editorial
 Kuntsche E, He Z, Bonela AA, Riordan B. Zero-shot learning has the potential to revolutionise research on exposure to alcohol and other drugs in digital media. Int J Drug Policy. 2023 Aug;118:104098. https://doi.org/10.1016/j.drugpo.2023.104098.
